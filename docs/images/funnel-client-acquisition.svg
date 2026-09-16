@@ -1,0 +1,43 @@
+<svg width="880" height="690" viewBox="0 0 880 690" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+  <rect x="0" y="0" width="880" height="690" rx="16" fill="#181815" stroke="#3a382f" stroke-width="1"/>
+
+  <!-- eyebrow -->
+  <text x="440" y="38" text-anchor="middle" font-size="12" letter-spacing="3" fill="#7a725a">ВОРОНКА ПРИВЛЕЧЕНИЯ КЛИЕНТА</text>
+
+  <!-- ПЛАН badge -->
+  <rect x="60" y="55" width="72" height="24" rx="12" fill="none" stroke="#55554e" stroke-width="1"/>
+  <text x="96" y="71" text-anchor="middle" font-size="11" letter-spacing="1" fill="#9a9990">ПЛАН</text>
+
+  <!-- Stage 1: awareness -->
+  <polygon points="60,95 820,95 750,205 130,205" fill="#1f1f1c" stroke="#55554e" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <text x="440" y="140" text-anchor="middle" font-size="21" font-weight="600" fill="#f0efe9">Клиент узнаёт о юристе</text>
+  <text x="440" y="167" text-anchor="middle" font-size="14.5" fill="#9a9990">сарафанное радио · визитка · реклама · личный сайт</text>
+
+  <!-- chevron 1 -->
+  <polygon points="425,213 455,213 440,231" fill="#55554e"/>
+
+  <!-- Stage 2: contact point (3 parallel routes, all converge on "удобный мессенджер") -->
+  <polygon points="130,238 750,238 680,378 200,378" fill="#1f1f1c" stroke="#55554e" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <text x="440" y="273" text-anchor="middle" font-size="20" font-weight="600" fill="#f0efe9">Точка контакта</text>
+  <text x="440" y="296" text-anchor="middle" font-size="14.5" fill="#9a9990">звонок → AI-секретарь → удобный мессенджер</text>
+  <text x="440" y="317" text-anchor="middle" font-size="14.5" fill="#9a9990">сайт → удобный мессенджер</text>
+  <text x="440" y="338" text-anchor="middle" font-size="14.5" fill="#9a9990">визитка/реклама → удобный мессенджер</text>
+
+  <!-- chevron 2 -->
+  <polygon points="425,386 455,386 440,404" fill="#55554e"/>
+
+  <!-- Stage 3: messenger -->
+  <polygon points="200,411 680,411 610,521 270,521" fill="#1f1f1c" stroke="#55554e" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <text x="440" y="456" text-anchor="middle" font-size="21" font-weight="600" fill="#f0efe9">Мессенджер</text>
+  <text x="440" y="483" text-anchor="middle" font-size="15" fill="#9a9990">Telegram - сейчас · VK, Max, Instagram - план</text>
+
+  <!-- chevron 3 (gold, handoff into the built system) -->
+  <polygon points="422,529 458,529 440,551" fill="#c8b97a"/>
+
+  <!-- Stage 4 - built -->
+  <rect x="270" y="560" width="340" height="108" rx="14" fill="#1a1810" stroke="#c8b97a" stroke-width="2"/>
+  <rect x="292" y="576" width="150" height="24" rx="12" fill="none" stroke="#c8b97a" stroke-width="1"/>
+  <text x="367" y="592" text-anchor="middle" font-size="11" letter-spacing="1" fill="#c8b97a">УЖЕ РАБОТАЕТ</text>
+  <text x="440" y="630" text-anchor="middle" font-size="21" font-weight="700" fill="#f0efe9">Приём и анамнез</text>
+  <text x="440" y="654" text-anchor="middle" font-size="15" fill="#c8b97a">решение юриста «берём / не берём»</text>
+</svg>
